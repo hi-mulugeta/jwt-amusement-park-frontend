@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# 🎢 JWT Amusement Park - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![React](https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react)](https://reactjs.org/)
+[![JWT](https://img.shields.io/badge/JWT-Authentication-000000.svg?logo=jsonwebtokens)](https://jwt.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/jwt-amusement-park-frontend)](https://github.com/YOUR_USERNAME/jwt-amusement-park-frontend/stargazers)
 
-## Available Scripts
+A beautifully designed React frontend for learning JWT authentication concepts through an interactive amusement park analogy.
 
-In the project directory, you can run:
+## 🎪 Live Preview
 
-### `npm start`
+👉 **[Live Demo](https://your-vercel-link.vercel.app)** *(Update with your deployment link)*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📸 Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| Login Screen | Park Dashboard | VIP Access |
+|--------------|----------------|------------|
+| ![Login](https://via.placeholder.com/400x250/667eea/ffffff?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/400x250/764ba2/ffffff?text=Park+Dashboard) | ![VIP](https://via.placeholder.com/400x250/e84118/ffffff?text=VIP+Rides) |
 
-### `npm test`
+## 🚀 Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🎨 Interactive UI
+- **Amusement Park Theme**: Learn authentication concepts through park analogies
+- **Real-time Feedback**: Instant visual feedback for all user actions
+- **Responsive Design**: Works perfectly on mobile, tablet, and desktop
+- **Loading States**: Smooth transitions and loading indicators
 
-### `npm run build`
+### 🔐 Authentication Flow
+- **JWT Token Management**: Secure handling of authentication tokens
+- **Persistent Login**: Remembers users with localStorage
+- **Role-based UI**: Different interfaces for Visitors and VIP users
+- **Protected Navigation**: Context-based routing protection
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🛡️ Security Features
+- **Secure Token Storage**: localStorage with proper headers
+- **HTTP Only Requests**: Tokens sent in Authorization headers
+- **Error Boundaries**: Graceful error handling
+- **Input Validation**: Client-side form validation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🏗️ Architecture
