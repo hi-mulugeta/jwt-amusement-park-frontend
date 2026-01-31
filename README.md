@@ -9,17 +9,27 @@ A beautifully designed React frontend for learning JWT authentication concepts t
 
 ## 🎪 Live Preview
 
+<<<<<<< HEAD
 👉 **[Live Demo](https://your-vercel-link.vercel.app)** _(Update with your deployment link)_
 
 ## 📸 Screenshots
 
 | Login Screen                                                                  | Park Dashboard                                                                      | VIP Access                                                               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+=======
+👉 **[Live Demo](https://your-vercel-link.vercel.app)** *(Update with your deployment link)*
+
+## 📸 Screenshots
+
+| Login Screen | Park Dashboard | VIP Access |
+|--------------|----------------|------------|
+>>>>>>> 535abbd7c263dbbe7ae66179a25e2378c3d3ca4a
 | ![Login](https://via.placeholder.com/400x250/667eea/ffffff?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/400x250/764ba2/ffffff?text=Park+Dashboard) | ![VIP](https://via.placeholder.com/400x250/e84118/ffffff?text=VIP+Rides) |
 
 ## 🚀 Features
 
 ### 🎨 Interactive UI
+<<<<<<< HEAD
 
 - **Amusement Park Theme**: Learn authentication concepts through park analogies
 - **Real-time Feedback**: Instant visual feedback for all user actions
@@ -56,3 +66,23 @@ src/
 │ └── api.js # Axios configuration and API calls
 └── utils/ # Utility functions
 └── auth.js # Token validation helpers
+=======
+- **Amusement Park Theme**: Learn authentication concepts through park analogies
+- **Real-time Feedback**: Instant visual feedback for all user actions
+- **Responsive Design**: Works perfectly on mobile, tablet, and desktop
+- **Loading States**: Smooth transitions and loading indicators
+
+### 🔐 Authentication Flow
+- **JWT Token Management**: Secure handling of authentication tokens
+- **Persistent Login**: Remembers users with localStorage
+- **Role-based UI**: Different interfaces for Visitors and VIP users
+- **Protected Navigation**: Context-based routing protection
+
+### 🛡️ Security Features
+- **Secure Token Storage**: localStorage with proper headers
+- **HTTP Only Requests**: Tokens sent in Authorization headers
+- **Error Boundaries**: Graceful error handling
+- **Input Validation**: Client-side form validation
+
+## 🏗️ Architecture
+>>>>>>> 535abbd7c263dbbe7ae66179a25e2378c3d3ca4a
