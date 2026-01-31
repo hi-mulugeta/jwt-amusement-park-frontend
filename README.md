@@ -23,8 +23,7 @@ A beautifully designed React frontend for learning JWT authentication concepts t
 
 | Login Screen | Park Dashboard | VIP Access |
 |--------------|----------------|------------|
->>>>>>> 535abbd7c263dbbe7ae66179a25e2378c3d3ca4a
-| ![Login](https://via.placeholder.com/400x250/667eea/ffffff?text=Login+Screen) | ![Dashboard](https://via.placeholder.com/400x250/764ba2/ffffff?text=Park+Dashboard) | ![VIP](https://via.placeholder.com/400x250/e84118/ffffff?text=VIP+Rides) |
+
 
 ## 🚀 Features
 
