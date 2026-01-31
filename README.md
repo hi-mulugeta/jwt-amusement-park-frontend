@@ -49,22 +49,7 @@ A beautifully designed React frontend for learning JWT authentication concepts t
 - **Error Boundaries**: Graceful error handling
 - **Input Validation**: Client-side form validation
 
-## 🏗️ Architecture
 
-src/
-├── App.js # Main application component
-├── App.css # Global styles
-├── components/ # Reusable UI components
-│ ├── Header/ # Navigation header
-│ ├── LoginForm/ # Authentication form
-│ ├── RideCard/ # Individual ride display
-│ └── Wristband/ # Token visualization
-├── context/ # React Context providers
-│ └── AuthContext.js # Authentication state management
-├── services/ # API services
-│ └── api.js # Axios configuration and API calls
-└── utils/ # Utility functions
-└── auth.js # Token validation helpers
 =======
 - **Amusement Park Theme**: Learn authentication concepts through park analogies
 - **Real-time Feedback**: Instant visual feedback for all user actions
